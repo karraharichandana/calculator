@@ -1,0 +1,29 @@
+/* App.css */
+
+/* Set light yellow background for the entire app */
+body {
+  background-color: #FFFFE0; /* Light Yellow */
+  font-family: Arial, sans-serif; /* Optional: Clean font */
+  margin: 2;
+  padding: 0;
+}
+
+/* Container to center the calculator */
+.App {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  min-height: 100vh; /* Full viewport height */
+  background-color: #FFFFE0; /* Ensure background color matches */
+  padding: 2px; /* Optional padding */
+}
+
+/* Style for the title */
+.title {
+  font-size: 4em; /* Adjust font size as needed */
+  font-weight: bold;
+  align-content: center;
+  text-align: center;
+  margin-top: 10rem;
+}
