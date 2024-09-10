@@ -1,3 +1,4 @@
+![Calculator](https://github.com/karraharichandana/calculator/blob/main/build/calculator.jpg?raw=true)
 # Simple Calculator
 
 A web-based calculator built using React. This calculator performs basic arithmetic operations and includes a clean, user-friendly interface.
